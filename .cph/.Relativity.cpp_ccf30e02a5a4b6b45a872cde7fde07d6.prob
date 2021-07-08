@@ -1,0 +1,1 @@
+{"name":"Local: Relativity","url":"c:\\Users\\ASUS\\Desktop\\JULY-LONG-CHALLENGE\\Relativity.cpp","tests":[{"id":1625725769877,"input":"3\n7 1400\n5 1000\n10 1000","output":"140000\n100000\n50000"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ASUS\\Desktop\\JULY-LONG-CHALLENGE\\Relativity.cpp","group":"local","local":true}
