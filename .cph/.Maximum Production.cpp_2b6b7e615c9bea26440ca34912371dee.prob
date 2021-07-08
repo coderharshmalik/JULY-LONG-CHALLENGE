@@ -1,0 +1,1 @@
+{"name":"Local: Maximum Production","url":"c:\\Users\\ASUS\\Desktop\\JULY-LONG-CHALLENGE\\Maximum Production.cpp","tests":[{"id":1625724141223,"input":"3\n1 2 3 1\n6 2 3 1\n1 2 8 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ASUS\\Desktop\\JULY-LONG-CHALLENGE\\Maximum Production.cpp","group":"local","local":true}
