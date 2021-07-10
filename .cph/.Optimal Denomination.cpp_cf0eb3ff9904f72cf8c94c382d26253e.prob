@@ -1,0 +1,1 @@
+{"name":"Local: Optimal Denomination","url":"c:\\Users\\ASUS\\Desktop\\JULY-LONG-CHALLENGE\\Optimal Denomination.cpp","tests":[{"id":1625845477369,"input":"3\n3\n1 2 3\n3\n8 4 2\n2\n2 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ASUS\\Desktop\\JULY-LONG-CHALLENGE\\Optimal Denomination.cpp","group":"local","local":true}
